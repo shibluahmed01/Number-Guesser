@@ -1,0 +1,10 @@
+body {
+    background: black;
+    color: white;
+}
+
+.container {
+    margin-top: 20rem;
+    padding: 1rem;
+    text-align: center;
+}
